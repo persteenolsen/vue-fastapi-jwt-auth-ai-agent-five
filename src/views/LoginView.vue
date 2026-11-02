@@ -23,7 +23,7 @@ function onSubmit(values, { setErrors }) {
         <h4>Simply.com AI Assistant for Domains and Docs with MCP, LangChain, FastAPI and Vue 3</h4>
         
         <br/><br />
-        Last updated: 28-10-2026<br /><br />
+        Last updated: 02-11-2026<br /><br />
         
         <h2>Login</h2>
         <Form @submit="onSubmit" :validation-schema="schema" v-slot="{ errors, isSubmitting }">
